@@ -566,6 +566,8 @@ const FIXED_PRODUCT_GROUPS = {
   "(81) Cây móng bò khô:":["b21d4c99-c47d-4c04-8f9a-ca2786474e90"],
   "(86) Xích nam       :":["00c5b2b1-8e25-4002-a178-4ce9092384a0"],
   "(87) Hoa Anh Đào    :":["2e5e96e6-60fb-4cd7-a686-66d7df304376"],
+  "(92) Giống hồng táo :":["25bccec3-42a7-4716-b9bc-4b4eeb641821"],
+  "(91)Hoacốc tinh thảo:":["0f6dc562-ae79-4e8c-ba62-6501ba0e2ad5"],
 };
 
 function loadFixedGroups() {
