@@ -568,6 +568,9 @@ const FIXED_PRODUCT_GROUPS = {
   "(87) Hoa Anh Đào    :":["2e5e96e6-60fb-4cd7-a686-66d7df304376"],
   "(92) Giống hồng táo :":["25bccec3-42a7-4716-b9bc-4b4eeb641821"],
   "(91)Hoacốc tinh thảo:":["0f6dc562-ae79-4e8c-ba62-6501ba0e2ad5"],
+  "(99) hoàn ngọc đỏ   :":["34323a10-27af-46ae-8cec-0086960fefa4"],
+  "(100) Gừng Vũ Nữ .  :":["d4918fdd-8a83-42f9-84b1-49d990b631cc"],
+  "(101) Đơn Mặt dời   :":["cd679fa3-6a83-4ac0-9f7d-83eef465c862"],
 };
 
 function loadFixedGroups() {
